@@ -1,4 +1,4 @@
-House Price Prediction using Ridge & Lasso Regression
+#House Price Prediction using Ridge & Lasso Regression
 This project aims to predict housing prices by employing Ridge and Lasso regression techniques. the .ipynb file contains the detailed implementation, including data preprocessing, model selection, and evaluation.
 
 Overview
